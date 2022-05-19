@@ -1,2 +1,2 @@
-# task-manager-api
-API for task management using Python 
+# Task Manager API
+## API for task management using Python
