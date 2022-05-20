@@ -6,5 +6,5 @@ app = FastAPI()
 
 
 @app.get("/task")
-def listar():
+def list():
     return TASKS
